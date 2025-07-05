@@ -13,8 +13,10 @@ This project is a comprehensive sales analysis of a multi-tool retail dataset us
 
 #### 📊 Yearly Product Trends – count-45-50
 
-![Yearly Product Count](images/yearly_trend_45_54.png)
+![Yearly Product Count](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/6a5a80f1e5e7275a76b87ddc3cab16b474936868/Yearly_Trend_of_products.png)
 
+### Impact of Unit Price on Revenue Generation
+![Revenue vs Unit Price](images/revenue_vs_unitprice_items_sold.png)
 ### Categorizing Customers Based on RFM Score
 RFM (Recency, Frequency, Monetary) analysis was used to segment customers based on their purchase behavior:
 
