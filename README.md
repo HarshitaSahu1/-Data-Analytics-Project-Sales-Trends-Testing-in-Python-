@@ -61,7 +61,7 @@ Customers were classified into two categories based on their first purchase date
 ## 📓 Full Jupyter Notebook
 
 You can view the full analysis here:  
-👉 [Multi-Tool-Sales-Analysis.ipynb](./Multi-Tool-Sales-Analysis.ipynb)
+👉 [Multi-Tool-Sales-Analysis.ipynb](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/3299db21fd3c14ca64b80f675dcc55146e22e997/multi_tool_sales_project.ipynb)
 
 
 
