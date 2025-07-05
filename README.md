@@ -4,6 +4,13 @@ This project is a comprehensive sales analysis of a multi-tool retail dataset us
 
 ---
 ## 📊 Key Visual Insights
+##  Country-wise Order Distribution
+## 🌍 Orders by Country
+
+![Country-wise Orders](images/country_wise_orders.png)
+
+*Germany and the USA accounted for the highest number of orders, indicating strong customer bases in these markets.*
+
 ### Categorizing Customers Based on RFM Score
 RFM (Recency, Frequency, Monetary) analysis was used to segment customers based on their purchase behavior:
 
