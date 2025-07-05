@@ -10,7 +10,12 @@ RFM (Recency, Frequency, Monetary) analysis was used to segment customers based 
 - **Recency (R):** How recently a customer made a purchase  
 - **Frequency (F):** How often they made purchases  
 - **Monetary (M):** How much they spent in total
-![RFM Segments](images/rfm_segment_chart.png)
+![RFM Segments](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/064af61a1e7104dd6275b9406759ac4688b88d00/Categorizing_Customer_based_RFM_Score.png)
+
+### Customer_Growth_Chart
+![Customer Growth](images/customer_growth.png)
+💬 *Dual-axis chart comparing total and new customers monthly.*
+
 - 
 ## 📌 Project Objective
 
