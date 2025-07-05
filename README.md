@@ -22,10 +22,17 @@ Customers were classified into two categories based on their first purchase date
 - **New Customers:** First-time buyers in the selected time period
 - **Old Customers:** Returning or repeat buyers
 
-## 📊 Revenue by Customer Type
-
-![Revenue by Customer Type](images/revenue_by_customer_type.png)
+![Revenue by Customer Type](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/d0a426c7d9d9c8f2d1e48c1166f833368e65e47d/Revenue_Customer_Type.png)
 - 
+
+### Relationship Between Revenue and Quantity Sold
+## 📊 Revenue vs Quantity Sold
+
+![Revenue vs Quantity](images/revenue_vs_quantity.png)
+
+*Each dot represents a transaction. A mild upward trend suggests that higher quantity contributes to higher revenue, but not always linearly.*
+
+
 ## 📌 Project Objective
 
 The aim of the project is to clean and analyze retail sales data, uncover customer purchasing patterns, understand the impact of time (e.g., weekdays vs weekends) on sales, identify outliers, and perform statistical tests to validate business hypotheses — all using Python and open-source libraries.
