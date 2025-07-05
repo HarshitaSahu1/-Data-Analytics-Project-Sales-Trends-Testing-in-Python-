@@ -58,6 +58,11 @@ Customers were classified into two categories based on their first purchase date
 
 *Each dot represents a transaction. A mild upward trend suggests that higher quantity contributes to higher revenue, but not always linearly.*
 
+## 📓 Full Jupyter Notebook
+
+You can view the full analysis here:  
+👉 [Multi-Tool-Sales-Analysis.ipynb](./Multi-Tool-Sales-Analysis.ipynb)
+
 
 
 ## 📌 Project Objective
