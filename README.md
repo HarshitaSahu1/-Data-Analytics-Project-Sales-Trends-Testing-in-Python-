@@ -1,2 +1,78 @@
-# -Data-Analytics-Project-Sales-Trends-Testing-in-Python-
-This project focuses on analyzing a sales dataset for multi-purpose tools using Python. The main objective was to explore and understand sales patterns through data cleaning, exploratory data analysis (EDA), visualizations, and basic hypothesis testing.
+# 📊 Data Analytics Project – Sales Trends & Hypothesis Testing in Python
+
+This project is a comprehensive sales analysis of a multi-tool retail dataset using Python. Through 26+ targeted data analysis tasks, the project simulates a real-world business scenario where data is used to inform decision-making and extract deep insights on performance.
+
+---
+
+## 📌 Project Objective
+
+The aim of the project is to clean and analyze retail sales data, uncover customer purchasing patterns, understand the impact of time (e.g., weekdays vs weekends) on sales, identify outliers, and perform statistical tests to validate business hypotheses — all using Python and open-source libraries.
+
+---
+
+## 🔄 Analysis Workflow
+
+The project followed a complete data analytics lifecycle:
+
+### 1. 🧹 Data Cleaning
+- Handled missing values and invalid data types
+- Used the IQR method to remove outliers from key columns like Revenue, Cost, Quantity, and Profit
+- Created a reusable function to apply outlier removal on multiple features
+
+### 2. 📊 Exploratory Data Analysis (EDA)
+- Analyzed revenue, cost, quantity, profit, and customer behavior
+- Explored relationships across days, customer types (new vs existing), order frequency, and more
+- Performed **RFM (Recency, Frequency, Monetary)** segmentation
+- Examined product-level insights like top-selling products, highest profit items, and loss-generating products
+
+### 3. 📅 Time-Based Analysis
+- Extracted day, month, and weekday/weekend from date columns
+- Compared sales behavior on weekdays vs weekends
+- Identified peak revenue months and seasonality patterns
+- Created **dual-axis charts** for total vs new customers over time
+
+### 4. 📈 Data Visualization
+- Used **Matplotlib** and **Seaborn** to create:
+  - Bar charts, line charts, and boxplots
+  - Correlation heatmaps and grouped comparisons
+  - Visuals showing customer trends, sales peaks, and outlier impacts
+- Saved visualizations as `.png` images to showcase in the README
+
+### 5. 🧪 Hypothesis Testing
+- Formulated null and alternate hypotheses to test revenue differences between weekdays and weekends
+- Used statistical testing (`f_oneway` from SciPy or alternative logic) to compare distributions
+- Interpreted p-values to make business conclusions with 95% confidence
+
+---
+
+## 🎯 Outcomes & Key Insights
+
+- March recorded the highest number of new customers
+- Sales and revenue do not differ significantly between weekdays and weekends (p > 0.05)
+- Outlier removal helped improve accuracy of mean-based metrics
+- Some products generated high revenue but low profit — potential pricing issues
+- Customer churn patterns were visible by analyzing first vs last purchase dates
+- Dual-axis charts gave strong visuals of customer growth vs acquisition rate
+
+---
+
+## 👩‍💻 Technical Summary
+
+- Language: Python  
+- Libraries: Pandas, Matplotlib, Seaborn  
+- Concepts: EDA, Data Cleaning, Outlier Detection, Hypothesis Testing, Customer Segmentation, Data Visualization
+
+---
+
+## 🙋‍♀️ About Me
+
+I'm **Harshita Sahu**, an aspiring data analyst with a passion for turning messy data into meaningful business insights.  
+This project reflects my hands-on learning and practical application of core data analytics techniques using Python.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/harshitasahu19231923)
+
+---
+
+## 📌 Related Tags
+
+`Python` `EDA` `Data Cleaning` `Outlier Detection` `Sales Analysis` `Visualization` `Hypothesis Testing` `Retail Analytics` `Customer Behavior` `Women In Tech`
