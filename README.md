@@ -13,9 +13,18 @@ RFM (Recency, Frequency, Monetary) analysis was used to segment customers based 
 ![RFM Segments](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/064af61a1e7104dd6275b9406759ac4688b88d00/Categorizing_Customer_based_RFM_Score.png)
 
 ### Customer_Growth_Chart
-![Customer Growth](images/customer_growth.png)
-💬 *Dual-axis chart comparing total and new customers monthly.*
+![Customer Growth](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/f6efd2208b237fed6c7226492a0bbf6f0f60885d/Customer_Growth_Chart.png)
 
+💬 *Dual-axis chart comparing total and new customers monthly.*
+### Revenue by Customer Type (Old vs New)
+Customers were classified into two categories based on their first purchase date:
+
+- **New Customers:** First-time buyers in the selected time period
+- **Old Customers:** Returning or repeat buyers
+
+## 📊 Revenue by Customer Type
+
+![Revenue by Customer Type](images/revenue_by_customer_type.png)
 - 
 ## 📌 Project Objective
 
