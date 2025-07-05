@@ -26,11 +26,11 @@ Customers were classified into two categories based on their first purchase date
 - 
 
 ### Relationship Between Revenue and Quantity Sold
-## 📊 Revenue vs Quantity Sold
 
-![Revenue vs Quantity](images/revenue_vs_quantity.png)
+![Revenue vs Quantity](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/55b6221fe869bd5fb80c6e03a5073e3dc2e25f6b/Revenue_vs_Quantity.png)
 
 *Each dot represents a transaction. A mild upward trend suggests that higher quantity contributes to higher revenue, but not always linearly.*
+
 
 
 ## 📌 Project Objective
