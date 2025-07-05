@@ -3,7 +3,15 @@
 This project is a comprehensive sales analysis of a multi-tool retail dataset using Python. Through 26+ targeted data analysis tasks, the project simulates a real-world business scenario where data is used to inform decision-making and extract deep insights on performance.
 
 ---
+## 📊 Key Visual Insights
+### Categorizing Customers Based on RFM Score
+RFM (Recency, Frequency, Monetary) analysis was used to segment customers based on their purchase behavior:
 
+- **Recency (R):** How recently a customer made a purchase  
+- **Frequency (F):** How often they made purchases  
+- **Monetary (M):** How much they spent in total
+![RFM Segments](images/rfm_segment_chart.png)
+- 
 ## 📌 Project Objective
 
 The aim of the project is to clean and analyze retail sales data, uncover customer purchasing patterns, understand the impact of time (e.g., weekdays vs weekends) on sales, identify outliers, and perform statistical tests to validate business hypotheses — all using Python and open-source libraries.
