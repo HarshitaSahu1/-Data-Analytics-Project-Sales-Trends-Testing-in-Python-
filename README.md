@@ -7,9 +7,13 @@ This project is a comprehensive sales analysis of a multi-tool retail dataset us
 ##  Country-wise Order Distribution
 ## 🌍 Orders by Country
 
-![Country-wise Orders](images/country_wise_orders.png)
+![Country-wise Orders](https://github.com/HarshitaSahu1/-Data-Analytics-Project-Sales-Trends-Testing-in-Python-/blob/7333cb4623564cba43d02d34b0323ef102b390ba/Country_wise_orders.png)
 
 *Germany and the USA accounted for the highest number of orders, indicating strong customer bases in these markets.*
+
+#### 📊 Yearly Product Trends – count-45-50
+
+![Yearly Product Count](images/yearly_trend_45_54.png)
 
 ### Categorizing Customers Based on RFM Score
 RFM (Recency, Frequency, Monetary) analysis was used to segment customers based on their purchase behavior:
